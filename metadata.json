@@ -1,0 +1,7 @@
+{
+  "name": "Nayla - Asisten Virtual Pak Guru Luky",
+  "description": "Nayla is a warm and empathetic virtual assistant specializing in education, emotional support, and life coaching. She's your smart older sister and wise best friend, ready to help you learn and grow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
